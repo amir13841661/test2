@@ -1,0 +1,30 @@
+the idea of the game:to be done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+key features:
+1.obstacles
+2.backtracking
+3.move limit
+
+
+
+
+
+
+
+obstacles:based on the difficulity there are randomized obstacles all around the grid
+should a player hit one of the obstacles they'll backtrack to their last position and
+get a time penalty
